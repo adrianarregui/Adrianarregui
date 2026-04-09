@@ -109,10 +109,6 @@ Sistema para escritores con:
 - RAG contextual
 - API con FastAPI
 
-### 🚇 Automatización Metro Bilbao
-- Análisis de datos
-- Predicción de afluencia
-- Automatización de procesos
 
 ### 📦 API Logística
 - Gestión de envíos
