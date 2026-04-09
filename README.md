@@ -33,7 +33,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ⚙️ Backend & IA
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
@@ -49,7 +48,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🧠 LLMs, RAG y AI Systems
+## 🧠 LLlMs, RAG y AI Systems
 
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/-FAISS-005571?style=for-the-badge)
