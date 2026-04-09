@@ -53,9 +53,7 @@
 ## 🧠 LLMs, RAG y AI Systems
 
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/-FAISS-005571?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🧩 Sistemas multi-agente
