@@ -48,7 +48,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🧠 LLlMs, RAG y AI Systems
+## 🧠 LLMs, RAG y AI Systems
 
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/-FAISS-005571?style=for-the-badge)
