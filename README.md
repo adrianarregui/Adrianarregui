@@ -9,7 +9,6 @@
 
 ## 🚀 Sobre mí
 
-- 👨‍🏫 Docente en Inteligencia Artificial y Desarrollo de Software  
 - 🧠 Enfocado en **IA aplicada a negocio (automatización, NLP, visión)**  
 - ⚙️ Desarrollo APIs con **FastAPI + Python + SQL**  
 - 🧪 Trabajo con **LLMs locales (Ollama, RAG, embeddings)**  
@@ -100,29 +99,6 @@
 
 ---
 
-## 📂 Proyectos destacados
-
-### 🤖 Plataforma IA (Lore)
-Sistema para escritores con:
-- Estructuración narrativa
-- IA para generación y reescritura
-- RAG contextual
-- API con FastAPI
-
-
-### 📦 API Logística
-- Gestión de envíos
-- Integración con base de datos
-- Endpoints REST reales
-
-### 🏎️ Simulación de Navegación Autónoma
-*Desarrollo técnico en el marco de Modelos de IA:*
-- Implementación de un **publicador en Python** para el control de velocidad de un robot.
-- Modelado y visualización de trayectorias en **RViz2**.
-- Validación de algoritmos en entornos dinámicos de **Gazebo**.
-
----
-
 ## 🧩 En qué estoy trabajando ahora
 
 - 🔧 Sistemas multi-agente con IA  
@@ -143,8 +119,3 @@ Sistema para escritores con:
 
 ---
 
-## ⚡ Filosofía
-
-> "La IA no sustituye a los programadores… sustituye a los que no entienden lo que hacen."
-
----
