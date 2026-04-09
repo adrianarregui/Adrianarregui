@@ -1,0 +1,11 @@
+# Dependencias para Proyecto_LLM_Small
+ollama==0.6.1
+sentence-transformers==3.0.1
+faiss-cpu==1.10.0
+sqlalchemy
+pymysql
+pandas
+tiktoken
+pymupdf
+python-docx
+fpdf
